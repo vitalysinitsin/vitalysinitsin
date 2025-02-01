@@ -11,10 +11,6 @@ Welcome to my GitHub! I'm a Software Developer with passion to create impactful 
 - Azure
 - AI integration in web Apps
 
-### Things about me
-- I love learning anything and everything about code!
-- When I’m not coding, I enjoy the 🎥**watching movies**, 📖**reading** and 🏃‍♂️**running**  
-
 I’m always open to collaborating on open-source projects! To reach me, feel free to contact me at vsinitsin94@gmail.com or my [Linkedin](https://www.linkedin.com/in/vitalysinitsin).
 
 
