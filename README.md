@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi there, I'm Vitaly! 👋
 
-<!--
-**vitalysinitsin/vitalysinitsin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a Software Developer with passion to create impactful software. I specialize in **React, Angular, TypeScript, Node.js** and love expanding my knowledge. 
 
-Here are some ideas to get you started:
+### 👨‍💻 I'm currently working on
+- My personal project: 👮‍♂️🚓 [crime_scan](https://github.com/vitalysinitsin/crime_scan) 
+- Job hunting 🏹👷
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently learning
+- C# and .NET, working on the certification with Microsoft
+- Azure
+- AI integration in web Apps
+
+### Things about me
+- I love learning anything and everything about code!
+- When I’m not coding, I enjoy the 🎥**watching movies**, 📖**reading** and 🏃‍♂️**running**  
+
+I’m always open to collaborating on open-source projects! To reach me, feel free to contact me at vsinitsin94@gmail.com or my [Linkedin](https://www.linkedin.com/in/vitalysinitsin).
+
+
+<!--## 💻 Tech Stack
+- **Frontend:** React, TypeScript, JavaScript, HTML/CSS, Redux, Next.js  
+- **Backend:** Node.js, Express, REST APIs  
+- **Tools:** Git, Docker, Webpack, Jest, Cypress, GitHub Actions  
+- **Databases:** PostgreSQL, MongoDB  
+- **Cloud:** AWS, Azure-->  
+
