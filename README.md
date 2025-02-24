@@ -3,12 +3,12 @@
 Welcome to my GitHub! I'm a Software Developer with passion to create impactful software. I specialize in **React, Angular, TypeScript, Node.js** and love expanding my knowledge. 
 
 ### 👨‍💻 I'm currently working on
-- My personal project: 👮‍♂️ [crime_scan](https://github.com/vitalysinitsin/crime_scan) 
+- My personal project: 👮‍♂️ [crime_scan](https://github.com/vitalysinitsin/crime_scan)
+- Another personal project: 💬 [babel_chat](https://github.com/vitalysinitsin/babel_chat) 
 - Job hunting 🏹
 
 ### 🌱 Currently learning
 - C# and .NET, working on the certification with Microsoft
-- Azure
 - AI integration in web Apps
 
 I’m always open to collaborating on open-source projects! Feel free to contact me about it at vsinitsin94@gmail.com.
