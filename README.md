@@ -9,6 +9,7 @@ Welcome to my GitHub! I'm a Software Developer with passion to create impactful 
 
 ### 🌱 Currently learning
 - C# and .NET, working on the certification with Microsoft
+- Ruby & Ruby on Rails
 - AI integration in web Apps
 
 I’m always open to collaborating on open-source projects! Feel free to contact me about it at vsinitsin94@gmail.com.
