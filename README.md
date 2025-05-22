@@ -5,10 +5,8 @@ Welcome to my GitHub! I'm a Software Developer with passion to create impactful 
 ### 👨‍💻 I'm currently working on
 - Personal project: 👮‍♂️ [crime_scan](https://github.com/vitalysinitsin/crime_scan)
 - Personal project: 💬 [babel_chat](https://github.com/vitalysinitsin/babel_chat) 
-- Job hunting 🏹
 
 ### 🌱 Currently learning
-- C# and .NET, working on the certification with Microsoft
 - Ruby & Ruby on Rails
 - AI integration in web Apps
 
