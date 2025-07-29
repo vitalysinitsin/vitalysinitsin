@@ -4,13 +4,12 @@ Welcome to my GitHub! I'm a Software Developer with passion to create impactful 
 
 ### 👨‍💻 I'm currently working on
 - Personal project: 👮‍♂️ [crime_scan](https://github.com/vitalysinitsin/crime_scan)
-- Personal project: 💬 [babel_chat](https://github.com/vitalysinitsin/babel_chat) 
 
 ### 🌱 Currently learning
 - Ruby & Ruby on Rails
 - AI integration in web Apps
 
-I’m always open to collaborating on open-source projects! Feel free to contact me about it at vsinitsin94@gmail.com.
+I’m always open to collaborating on open-source projects! Feel free to contact me about it at vsinitsin94@gmail.com. If you'd like to learn more about me visit my personal [web page](https://vitalysinitsin.github.io)!
 
 
 <!--## 💻 Tech Stack
