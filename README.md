@@ -1,6 +1,6 @@
 ## Hi there, I'm Vitaly! 👋
 
-Welcome to my GitHub! I'm a Software Developer with passion to create impactful software. I specialize in **React, Angular, TypeScript, Node.js and Ruby on Rails** and love expanding my knowledge. 
+Welcome to my GitHub! I'm a Software Developer with passion to create impactful software. I specialize in **React, Angular, TypeScript, Node.js, Ruby on Rails** and love expanding my knowledge. 
 
 ### 👨‍💻 I'm currently working on
 - Personal project: 👮‍♂️ [crime_scan](https://github.com/vitalysinitsin/crime_scan)
