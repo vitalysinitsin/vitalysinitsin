@@ -6,10 +6,6 @@ Welcome to my GitHub! I'm a Software Developer with passion to create impactful 
 [Lexter](https://www.linkedin.com/company/lexter-legal-recruiting/posts/?feedView=all) - building legal recruitment system
 <!-- - Personal project: 👮‍♂️ [crime_scan](https://github.com/vitalysinitsin/crime_scan) -->
 
-### 🌱 Currently learning
-- Ruby on Rails
-- DB architecture
-
 I’m always open to collaborating on open-source projects! Feel free to contact me about it at vsinitsin94@gmail.com. If you'd like to learn more about me visit my personal [web page](https://vitalysinitsin.github.io)!
 
 
