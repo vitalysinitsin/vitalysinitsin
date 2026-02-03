@@ -1,6 +1,6 @@
 ## Hi there, I'm Vitaly! 👋
 
-Welcome to my GitHub! I'm a Software Developer with passion to create impactful software. I specialize in **Ruby on Rails, Node.js, React, Angular, TypeScript/Javascript**. 
+Welcome to my GitHub! I’m a software developer with over five years of experience specializing in web applications. I enjoy contributing to products that solve real problems in a clear, user-focused way.
 
 If you'd like to learn more about me visit my personal [web page](https://vitalysinitsin.github.io)!
 
