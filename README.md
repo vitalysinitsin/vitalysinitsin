@@ -8,10 +8,6 @@ If you'd like to learn more about me visit my personal [web page](https://vitaly
 ## 💻 My Tech Stack
 [![fe](https://skillicons.dev/icons?i=js,ts,react,html,css,scss,tailwind,mui)](https://skillicons.dev)
 
-[![be](https://skillicons.dev/icons?i=nodejs,express,java,spring,ruby,rails,graphql)](https://skillicons.dev)
+[![be+db](https://skillicons.dev/icons?i=nodejs,express,java,spring,ruby,rails,graphql,mysql,postgresql)](https://skillicons.dev)
 
-[![db](https://skillicons.dev/icons?i=mysql,postgresql)](https://skillicons.dev)
-
-[![testing](https://skillicons.dev/icons?i=jest,cypress)](https://skillicons.dev)
-
-[![tools](https://skillicons.dev/icons?i=git,docker,webpack)](https://skillicons.dev)  
+[![tools](https://skillicons.dev/icons?i=jest,cypress,git,docker,webpack)](https://skillicons.dev)  
