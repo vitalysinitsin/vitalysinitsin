@@ -10,4 +10,4 @@ If you'd like to learn more about me visit my personal [web page](https://vitaly
 
 [![be+db](https://skillicons.dev/icons?i=nodejs,express,java,spring,ruby,rails,graphql,mysql,postgresql)](https://skillicons.dev)
 
-[![tools](https://skillicons.dev/icons?i=jest,cypress,git,docker,webpack)](https://skillicons.dev)  
+[![tools](https://skillicons.dev/icons?i=jest,cypress,git,docker,webpack,vim)](https://skillicons.dev)  
