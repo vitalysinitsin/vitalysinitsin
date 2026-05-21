@@ -6,8 +6,8 @@ If you'd like to learn more about me visit my personal [web page](https://vitaly
 
 
 ## 💻 My Tech Stack
-[![fe](https://skillicons.dev/icons?i=js,ts,react,html,css,scss,tailwind,mui)](https://skillicons.dev)
+Frontend: [![fe](https://skillicons.dev/icons?i=js,ts,react,html,css,scss,tailwind,mui,styledcomponents)](https://skillicons.dev)
 
-[![be+db](https://skillicons.dev/icons?i=nodejs,express,java,spring,ruby,rails,graphql,mysql,postgresql)](https://skillicons.dev)
+Backend + DB: [![be+db](https://skillicons.dev/icons?i=nodejs,express,ruby,rails,graphql,mysql,postgresql)](https://skillicons.dev)
 
-[![tools](https://skillicons.dev/icons?i=jest,cypress,git,docker,webpack,vim)](https://skillicons.dev)  
+General Tools: [![tools](https://skillicons.dev/icons?i=jest,cypress,git,docker,webpack,vim)](https://skillicons.dev)  
